@@ -24,6 +24,7 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 #### Contents
 
 - [Soul of Design](#soul-of-design-sunny)
+  - [Soul of Design in China](#soul-of-design-china)
 - [Design Leader](#design-leader-dolls)
 - [Resources](#resources-package)
 - [High Quality Photos](#high-quality-photos-tokyo_tower)
@@ -49,8 +50,8 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 
 ## Soul of Design :sunny:
 
-- [Design Milk](http://design-milk.com/) - An online magazine dedicated to modern design, offers what’s new in art, architecture, interior design, furniture and decor, fashion and technology.
-- [frog](https://www.frogdesign.com/) - A global design and strategy firm.
+- [Design Milk](http://design-milk.com/)
+- [frog](https://www.frogdesign.com/)
 - [Danish Design Centre](http://danskdesigncenter.dk/)
 - [Google Design](https://design.google.com/)
 - [Google Art & Culture](https://www.google.com/culturalinstitute/beta/)
@@ -94,6 +95,10 @@ I suggest you to pick those you like, take benefits from them, and finally put i
 - [Great Apps Timeline](http://greatappstimeline.xyz/)
 - [Nicely Done](http://nicelydone.club/)
 - [Dropbox Design](https://medium.com/dropbox-design)
+
+### Soul of Design in China :china:
+
+- [Great Apps Timeline](http://greatappstimeline.xyz/)
 
 ## Design Leader :dolls:
 
